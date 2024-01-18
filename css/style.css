@@ -1,0 +1,102 @@
+body {
+    font-family: 'Raleway';
+} 
+
+
+ul {
+    list-style-type: none;
+}
+a {
+    text-decoration: none;
+}
+a { 
+    color: rgb(165, 42, 99);
+}
+nav ul {
+    background-color: rgb(250, 237, 231) 
+} 
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;  
+    padding: 10px; 
+}
+header div {
+    display: flex;
+    justify-content: center;
+    
+    
+}
+header img { 
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+header div h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+header h1 {
+    color: rgb(235, 136, 55);
+    background-color: rgb(250, 237, 231);
+    text-align: center;
+    padding: 30px;
+}
+header h2 {
+    color: rgb(165, 42, 99);
+    background-color: rgb(250, 237, 231);
+    text-align: center;
+    padding: 80px;
+}
+header h3 {
+    color: rgb(165, 42, 99);
+    background-color: rgb(250, 237, 231);
+    text-align: center;
+    padding: 50px;
+}
+main h3 {
+    color: rgb(103, 64, 129);
+    background-color: rgb(250, 237, 231);
+    display: flex;
+    margin: 20px;
+    padding: 15px;
+}
+main p {
+    font-weight: 400;
+    color: rgb(5, 20, 85);
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+    display: flex;
+    margin: 30px;
+}
+main img{
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+main div {
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    margin: 0 auto;
+    
+}
+
+footer {
+    background-color: rgb(250, 237, 231);
+    
+}
+footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;  
+    padding: 20px; 
+}
+
+
+    
